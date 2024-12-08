@@ -21,4 +21,3 @@ public class PrimeNumbers {
         return true;
     }
 }
-simple la 6 question di
